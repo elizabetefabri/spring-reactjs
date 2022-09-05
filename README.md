@@ -50,8 +50,6 @@ yarn create vite frontend --template react-ts
 
 ## Passo: salvar primeira versão no Github
 
-**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
-
 ```bash
 git init
 
@@ -117,7 +115,3 @@ const date = new Date(new Date().setDate(new Date().getDate() - 365));
 ```
 
 - **COMMIT: useState**
-
-## PARABÉNS!
-
-![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
