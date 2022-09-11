@@ -35,7 +35,7 @@ export function SalesCard() {
     <div className="dsmeta-card">
       <h2 className="dsmeta-sales-title">Vendas</h2>
       <div>
-        <div className="dsmeta-form-control-container">
+        <div className="dsmeta-form-control-cont'ainer">
           <DatePicker
             selected={minDate}
             onChange={(date: Date) => setMinDate(date)}
