@@ -1,11 +1,15 @@
-# Semana Spring ReactJS
+<div align="center">
+
+# Semana Spring ReactJS - DevSuperior
 
 ## Clique na imagem para ver o site
 
-<div align="center">
 <a href="https://dsmeta-elizabetefabri.netlify.app/">
-<img src="./banner.png" alt="Imagem do projeto finalizado" style="border-radius:50px;" height="400em"/>
+	<img src="./banner.png" alt="Imagem do projeto finalizado" style="border-radius: 50px;" height="600"/>
 </a>
+
+(Link do projeto finalizado: https://dsmeta-elizabetefabri.netlify.app/)
+
 </div>
 
 ## Objetivos do projeto para esta aula - 01
