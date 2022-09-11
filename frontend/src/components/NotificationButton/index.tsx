@@ -4,10 +4,8 @@ import "./styles.css";
 
 export function NotificationButton() {
   return (
-    <>
-      <div className="dsmeta-red-btn">
-        <img src={iconNotification} alt="Notificar" />
-      </div>
-    </>
+    <div className="dsmeta-red-btn">
+      <img src={iconNotification} alt="Notificar" />
+    </div>
   );
 }
